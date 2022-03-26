@@ -12,7 +12,7 @@ War-time Prime Minister Winston Churchill has several connections to Kent.  Most
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/18/Churchill_waves_to_crowds.jpg" label="Winston Churchill waving to crowds" attribution=(Post-Work: User:W.wolny), Public domain, via Wikimedia Commons>
 
 Built upon as early as the 16th century[^ref3], Churchill purchased the house in 1922, just after the birth of his youngest daughter, Mary. He originally purchased the estate for £5,000 but spent upwards of an additional £30,000 over the next 15 years on an extensive programme of rebuilding and improvements[^ref4].
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f0/Churchill_and_Einstein_in_1933.jpg" label="Churchill and Einstein at Chartwell in 1933" attribution=Unknown photographer, Public domain, via Wikimedia Commons>
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/bd/Churchill_Charlie_Chaplin_Mitford.jpg" label="Churchill with Charlie Chaplin and Tom Mitford at Chartwell" attribution=Unknown author, Public domain, via Wikimedia Commons>
 
 On top of his many talents, unknown to many, Churchill was also an avid painter, picking up his first brush at the age of 41.  After discovering his new passion, he had a studio built at Chartwell in the 1930’s which became one of his favourite refuges[^ref5].   He would go on to paint over 500 paintings, many of which would be painted at his Kent home.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/ef/Entrance_to_Churchill%27s_Garden_Studio_at_Chartwell_-_geograph.org.uk_-_1421616.jpg" label="Entrance to Churchill's studio at Chartwell" attribution=PAUL FARMER / Entrance to Churchill's Garden Studio at Chartwell>
