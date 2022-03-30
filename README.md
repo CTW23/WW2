@@ -9,7 +9,7 @@
 “A day away from Chartwell is a day wasted”
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7b/War_Office_Second_World_War_Official_Collection_H3509.jpg" label="Winston Churchill at Dover Castle Secret Wartime Tunnels" attribution=War Office official photographer, Horton (Capt), Public domain, via Wikimedia Commons>
 
-War-time Prime Minister Winston Churchill has several connections to Kent.  Most importantly he was a resident of Kent, living at Chartwell, a country house near Westerham[^ref1].  He is reported to have said that he bought the estate for its view over the Weald of Kent and that "a day away from Chartwell is a day wasted"[^ref2].
+War-time Prime Minister Winston Churchill has several connections to Kent.  Most importantly he was a resident of Kent, living at Chartwell, a country house near Westerham.[^ref1]  He is reported to have said that he bought the estate for its view over the Weald of Kent and that "a day away from Chartwell is a day wasted",[^ref2]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/18/Churchill_waves_to_crowds.jpg" label="Winston Churchill waving to crowds" attribution=(Post-Work: User:W.wolny), Public domain, via Wikimedia Commons>
 
 Built upon as early as the 16th century,[^ref3] Churchill purchased the house in 1922, just after the birth of his youngest daughter, Mary. He originally purchased the estate for £5,000 but spent upwards of an additional £30,000 over the next 15 years on an extensive programme of rebuilding and improvements.[^ref4]
