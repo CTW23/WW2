@@ -7,6 +7,7 @@
 #
 
 “A day away from Chartwell is a day wasted”
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7b/War_Office_Second_World_War_Official_Collection_H3509.jpg" label="Winston Churchill at Dover Castle Secret Wartime Tunnels" attribution=War Office official photographer, Horton (Capt), Public domain, via Wikimedia Commons>
 
 War-time Prime Minister Winston Churchill has several connections to Kent.  Most importantly he was a resident of Kent, living at Chartwell, a country house near Westerham[^ref1].  He is reported to have said that he bought the estate for its view over the Weald of Kent and that "a day away from Chartwell is a day wasted"[^ref2].
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/18/Churchill_waves_to_crowds.jpg" label="Winston Churchill waving to crowds" attribution=(Post-Work: User:W.wolny), Public domain, via Wikimedia Commons>
@@ -30,7 +31,7 @@ As well as residing in Kent, Churchill visited other areas of the county on nume
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d9/Winston_Churchill_studies_after_action_reports_with_Vice_Admiral_Sir_Bertram_Ramsay%2C_Flag_Officer_Comanding_Dover%2C_28_August_1940._H3508.jpg" label="Churchill and Vice Admiral Sir Bertram Ramsay at the Secret Wartime Tunnels at Dover Castle" attribution=War Office official photographer, Horton (Capt), Public domain, via Wikimedia Commons>
 
 Churchill is remembered in Kent through two statues. One is located in Westerham on The Green[^ref13], the other at St. Margaret’s Bay, Dover looking out towards the Dover Patrol Memorial on the white cliffs[^ref14].
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/ae/Churchill_monument.jpg" label="Churchill Statue in Westerham" attribution=Scott Woodrow, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons>
+<param ve-image url="https://stor.artstor.org/stor/9120880e-e4bc-4374-9a8e-a552e6f8d549" label="Churchill Statue in Westerham" attribution=Martin Crowther
 
 
 ### References 
